@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 02 Nov 2023 08:36:34 +0100</lastBuildDate>
     <atom:link href="https://alfie.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
+      <title>hello, world!</title>
       <link>https://alfie.github.io/posts/hello-world/</link>
       <pubDate>Thu, 02 Nov 2023 08:36:34 +0100</pubDate>
       <guid>https://alfie.github.io/posts/hello-world/</guid>
-      <description>hello, world! </description>
+      <description>this will be a puclic collection techincal things i learn while working on projects w/ a main focus on solana, hacking and reverse engineering</description>
     </item>
   </channel>
 </rss>
